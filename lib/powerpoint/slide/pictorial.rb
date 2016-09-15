@@ -29,7 +29,7 @@ module Powerpoint
 
       def default_coords
         slide_width = pixle_to_pt(1010)
-        default_width = pixle_to_pt(550)
+        default_width = pixle_to_pt(1000)
 
         return {} unless dimensions = FastImage.size(image_path)
         image_width, image_height = dimensions.map {|d| pixle_to_pt(d)}
