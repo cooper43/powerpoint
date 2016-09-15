@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e692060-c878-4648-87b7-6f9207a239e3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/powerpoint/views/text_picture_split_slide.xml.erb" afterPath="$PROJECT_DIR$/lib/powerpoint/views/text_picture_split_slide.xml.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/powerpoint/views/content_type.xml.erb" afterPath="$PROJECT_DIR$/lib/powerpoint/views/content_type.xml.erb" />
     </list>
     <ignored path="powerpoint-cornerstone.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,16 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="slideMaster1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/template/ppt/slideMasters/slideMaster1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="119">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="slideLayout8.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/ppt/slideLayouts/slideLayout8.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="slideLayout9.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="slideLayout9.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/template/ppt/slideLayouts/slideLayout9.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.36734694" vertical-offset="1631" max-vertical-offset="3332">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1631" max-vertical-offset="3332">
               <caret line="115" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content_type.xml.erb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/powerpoint/views/content_type.xml.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51635516" vertical-offset="0" max-vertical-offset="856">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -145,6 +145,7 @@
         <option value="$PROJECT_DIR$/lib/powerpoint/views/text_picture_split_rel.xml.erb" />
         <option value="$PROJECT_DIR$/lib/powerpoint/views/pictorial_slide.xml.erb" />
         <option value="$PROJECT_DIR$/lib/powerpoint/views/text_picture_split_slide.xml.erb" />
+        <option value="$PROJECT_DIR$/lib/powerpoint/views/content_type.xml.erb" />
       </list>
     </option>
   </component>
@@ -634,7 +635,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35782748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35782748" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -932,8 +933,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template/ppt/slideLayouts/slideLayout9.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.36734694" vertical-offset="1631" max-vertical-offset="3332">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1631" max-vertical-offset="3332">
           <caret line="115" column="0" selection-start-line="109" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/powerpoint/views/content_type.xml.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51635516" vertical-offset="0" max-vertical-offset="856">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
           <folding />
         </state>
       </provider>
