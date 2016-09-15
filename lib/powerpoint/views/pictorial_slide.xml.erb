@@ -60,19 +60,10 @@
             <a:fillRect/>
           </a:stretch>
         </p:blipFill>
-        <% if coords.any? %>
-        <p:spPr>
-          <a:xfrm>
-            <a:off x="<%= coords[:x].to_s %>" y="<%= coords[:y].to_s %>"/>
-            <a:ext cx="<%= coords[:cx].to_s %>" cy="<%= coords[:cy].to_s %>"/>
-          </a:xfrm>
-          <a:prstGeom prst="rect">
-            <a:avLst/>
-          </a:prstGeom>
-        </p:spPr>
-        <% else %>
-        <p:spPr/>
-        <% end %>
+        <a:xfrm>
+          <a:off x="0" y="0" />
+          <a:ext cx="12192000" cy="6858000" />
+        </a:xfrm>
       </p:pic>
     </p:spTree>
     <p:extLst>
