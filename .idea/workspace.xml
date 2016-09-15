@@ -90,8 +90,8 @@
       <file leaf-file-name="pictorial_slide.xml.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/powerpoint/views/pictorial_slide.xml.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.70705247" vertical-offset="816" max-vertical-offset="1496">
-              <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6455696" vertical-offset="0" max-vertical-offset="1105">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -910,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/powerpoint/views/pictorial_slide.xml.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70705247" vertical-offset="816" max-vertical-offset="1496">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.6455696" vertical-offset="0" max-vertical-offset="1105">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
